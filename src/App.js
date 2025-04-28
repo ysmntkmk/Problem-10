@@ -139,11 +139,11 @@ export default function App() {
         avatarUrl='https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80'
         timestamp='9 Aralık saat 11:43'
         content=' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo
-//             impedit sapiente recusandae iusto officiis dolor? Laborum quibusdam
-//             quam, quidem vel assumenda repellat inventore sint nesciunt, ullam
-//             asperiores magnam placeat eveniet. Aliquam voluptatibus assumenda
-//             distinctio veniam quam tempora modi aperiam nemo voluptate
-//             reprehenderit quidem, nisi vero est.'
+             impedit sapiente recusandae iusto officiis dolor? Laborum quibusdam
+             quam, quidem vel assumenda repellat inventore sint nesciunt, ullam
+             asperiores magnam placeat eveniet. Aliquam voluptatibus assumenda
+             distinctio veniam quam tempora modi aperiam nemo voluptate
+             reprehenderit quidem, nisi vero est.'
       />
     </div>
   )
